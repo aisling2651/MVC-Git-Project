@@ -42,6 +42,7 @@ The two images below show my view and add pages. One in portrait view the other 
 
 ## References
 
+- My website has been hosted remotely and can be found at https://ca3cunnighamaisling.000webhostapp.com/
 - My lecturer Shane Gavin has provided a starter project on this link :https://gitlab.comp.dkit.ie/gavins/ rapid-starter-project/ as built in class
 - Shane also gave me access to his videos on YouTube. I watched them in order to understand how to get request data from a form. This is the link: https://www.youtube.com/watch?v=G-A1xizeEPA&feature=youtu.be
 - Rachel Callaghan helped me understand how to retrieve the CompanyName from the CompanyID and how to use the Select option input in a form.
